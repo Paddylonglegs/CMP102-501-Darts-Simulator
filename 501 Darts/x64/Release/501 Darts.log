@@ -1,0 +1,13 @@
+﻿  501 Darts.cpp
+D:\501 Darts\501 Darts.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dartboard.cpp
+  player.cpp
+  score.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\501 Darts\player.cpp(100): warning C4715: 'player::throw_treble': not all control paths return a value
+D:\501 Darts\player.cpp(80): warning C4715: 'player::throw_double': not all control paths return a value
+D:\501 Darts\player.cpp(59): warning C4715: 'player::throw_single': not all control paths return a value
+  All 95 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  501 Darts.vcxproj -> D:\501 Darts\x64\Release\501 Darts.exe
